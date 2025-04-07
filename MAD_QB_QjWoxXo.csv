@@ -1,0 +1,68 @@
+﻿question,marks,blooms_level
+List any four features of the Android operating system.,2,remember
+Define Dalvik Virtual Machine (DVM).,4,understand
+List any four folders from the directory structure of an Android project and elaborate in one line.,6,apply
+List any four attributes of a checkbox.,2,remember
+Draw a diagram of the activity life cycle.,4,understand
+State the syntax to display built-in zoom control.,6,apply
+Name two classes used to play audio and video in Android.,2,remember
+Describe Android architecture with a diagram.,4,understand
+Differentiate between Dalvik Virtual Machine (DVM) and Java Virtual Machine (JVM).,6,apply
+List and elaborate steps to deploy an Android application on Google Play Store.,2,remember
+Describe with an example how to create a simple database in SQLite.,4,understand
+Write down the steps to install and configure Android Studio.,6,apply
+State the syntax to create a TextView and ImageButton with any two attributes of each.,2,remember
+Describe the Android service life cycle along with a diagram.,4,understand
+State and elaborate the syntax of required classes and methods for Geocoding.,4,apply
+Explain with an example code to create GUI using absolute layout.,2,remember
+Write a program to demonstrate Date and Time picker.,4,understand
+Describe the multimedia framework of Android with a diagram.,4,apply
+Discuss the developer console with at least four features.,2,remember
+Write a program to demonstrate declaring and using permissions with any relevant example.,4,understand
+Write a program to convert temperature from Celsius to Fahrenheit and vice versa using a Toggle button.,4,apply
+Write a program to capture an image using the camera and display it.,2,remember
+Develop an application to send and receive SMS.,4,understand
+Write a program to implement the Android Activity Lifecycle using toast messages.,4,understand
+Develop an application to display a Google map with the user's current location.,2,remember
+"Design a UI using a table layout to display buttons with numbers 0-9 on them, along with submit and clear buttons. When the user clicks specific buttons and later clicks the submit button, it should display the numbers clicked.",4,understand
+List all tools and software required for developing an Android application.,4,apply
+Define emulator.,2,remember
+List any four attributes of layout.,4,understand
+Define Geocoding and Reverse Geocoding.,6,apply
+State intent and list types of intent.,2,remember
+Write the difference between toggle button and radio button.,4,understand
+Define Fragment and Broadcast receiver.,6,apply
+Explain relative layout with all its attributes.,2,remember
+Explore all steps to install Android Studio and SDK.,4,understand
+Explain the need for the Android Operating System and describe any four features of Android.,6,apply
+"Develop a program to add a “Hello World” marker at (10,10) coordinates.",2,remember
+Describe the service lifecycle with its diagram.,4,understand
+Elaborate on the Android Security Model.,6,apply
+Write an XML file to create a login page using Table Layout.,2,remember
+Develop an application to display an analog Time Picker and display the selected time.,4,understand
+Differentiate between JVM and DVM.,6,apply
+Explain components of the Android directory structure.,2,remember
+Develop an Android application using a radio button.,4,understand
+Develop an application to send and receive SMS.,6,apply
+Draw and explain the activity life cycle.,2,remember
+"Develop a program to perform addition, subtraction, division, and multiplication of two numbers and display the result.",4,understand
+Develop an application to display a Google Map.,6,apply
+"Develop an application to convert the text ""thanks"" to speech as given in the specified GUI.",2,remember
+"Develop an application to update a record of an employee whose emp.id is 'E101' in an SQLite database. Change the employee name from ""PQR"" to ""XYZ"" and display the updated record.",4,understand
+Describe all steps in application deployment on Google Play Store and write steps for customized permissions.,6,apply
+Develop a program to turn Bluetooth ON and OFF.,2,remember
+State the Android ecosystem.,4,understand
+List various tools for Android application development.,6,apply
+List various layouts used in Android UI design.,2,remember
+Name any four attributes of the EditText control.,4,understand
+State the use of fragments in Android app development.,6,apply
+Define SMS service in Android application development.,2,remember
+List different types of sensors used in Android.,4,understand
+Describe Android and the importance of OHA (Open Handset Alliance).,6,apply
+Explain Dalvik Virtual Machine and state its importance.,2,apply
+Describe the process of getting the map API Key.,4,remember
+Explain the multimedia framework in Android.,6,understand
+Describe various installation steps of Android Studio and its environment.,2,apply
+Explain GridView with its attributes and provide a suitable example.,4,remember
+Explain the text-to-speech conversion technique in Android.,6,understand
+Describe the steps for deploying an Android application on Google Play Store.,2,apply

@@ -1,0 +1,51 @@
+question,marks,blooms_level
+What is an operating system?,2,remember
+Explain the concept of process scheduling in an operating system.,4,understand
+Apply deadlock prevention algorithms in an operating system.,6,apply
+Analyze the role of memory management in operating systems.,2,remember
+Evaluate the performance of different scheduling algorithms.,4,understand
+Design an efficient file management system in an operating system.,6,apply
+Explain the difference between user mode and kernel mode.,2,remember
+"What is virtual memory, and how does it work?",4,understand
+Discuss the advantages and disadvantages of multitasking in operating systems.,6,apply
+How do operating systems handle interrupt requests (IRQs)?,2,remember
+What are the various states of a process in an operating system?,4,understand
+Explain the concept of paging and segmentation in memory management.,6,apply
+How do modern operating systems manage hardware resources?,2,remember
+What is the role of device drivers in an operating system?,4,understand
+Discuss how file systems are organized in operating systems.,4,apply
+Explain how process synchronization works in operating systems.,2,remember
+What is the difference between a process and a thread?,4,understand
+How does a modern operating system handle system calls?,4,apply
+Describe the role of the kernel in an operating system.,2,remember
+How is disk scheduling managed in operating systems?,4,understand
+What is the role of caching in operating systems?,4,apply
+Explain the concept of thrashing in virtual memory systems.,2,remember
+"What are the different types of operating systems (e.g., batch, time-sharing)?",4,understand
+How is data stored and retrieved in a file system?,4,understand
+Discuss the concept of real-time operating systems.,2,remember
+What is an operating system?,4,understand
+Explain the concept of process scheduling in an operating system.,4,apply
+Apply deadlock prevention algorithms in an operating system.,2,remember
+Analyze the role of memory management in operating systems.,4,understand
+Evaluate the performance of different scheduling algorithms.,6,apply
+Design an efficient file management system in an operating system.,2,remember
+Explain the difference between user mode and kernel mode.,4,understand
+"What is virtual memory, and how does it work?",6,apply
+Discuss the advantages and disadvantages of multitasking in operating systems.,2,remember
+How do operating systems handle interrupt requests (IRQs)?,4,understand
+What are the various states of a process in an operating system?,6,apply
+Explain the concept of paging and segmentation in memory management.,2,remember
+How do modern operating systems manage hardware resources?,4,understand
+What is the role of device drivers in an operating system?,6,apply
+Discuss how file systems are organized in operating systems.,2,remember
+Explain how process synchronization works in operating systems.,4,understand
+What is the difference between a process and a thread?,6,apply
+How does a modern operating system handle system calls?,2,remember
+Describe the role of the kernel in an operating system.,4,understand
+How is disk scheduling managed in operating systems?,6,apply
+What is the role of caching in operating systems?,2,remember
+Explain the concept of thrashing in virtual memory systems.,4,understand
+"What are the different types of operating systems (e.g., batch, time-sharing)?",6,apply
+How is data stored and retrieved in a file system?,2,remember
+Discuss the concept of real-time operating systems.,4,understand

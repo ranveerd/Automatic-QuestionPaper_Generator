@@ -1,0 +1,68 @@
+﻿question,marks,blooms_level
+What is network security?,2,remember
+Why is network security important for organizations?,4,understand
+What are the common threats to network security?,6,apply
+What is the difference between a virus and a worm?,2,remember
+What are security protocols?,4,understand
+What is the role of IPsec in securing network communications?,6,apply
+Describe the function of HTTPS.,2,remember
+What is the difference between symmetric and asymmetric encryption?,4,understand
+What is authentication in the context of network security?,6,apply
+What is the principle of least privilege?,2,remember
+Describe the role of a proxy server in network security.,4,understand
+What is a security policy?,6,apply
+Why is it important to have an incident response plan?,2,remember
+What are the key components of a disaster recovery plan?,4,understand
+How often should security policies be reviewed and updated?,4,apply
+What is the role of employee training in maintaining network security?,2,remember
+What is risk assessment in network security?,4,understand
+How do you identify vulnerabilities in a network?,4,apply
+What is the difference between qualitative and quantitative risk analysis?,2,remember
+Explain the concept of risk mitigation.,4,understand
+What are the common risk management frameworks used in network security?,4,apply
+What is cryptography and why is it important?,2,remember
+Explain the difference between hashing and encryption.,4,understand
+What are digital signatures and how do they work?,4,understand
+What is the significance of key management in cryptography?,2,remember
+What are the different types of malware?,4,understand
+How can social engineering attacks compromise network security?,4,apply
+Explain the concept of phishing and its impact on security.,2,remember
+What are zero-day vulnerabilities?,4,understand
+What are the security challenges associated with wireless networks?,6,apply
+What is the role of MAC address filtering in wireless security?,2,remember
+How can rogue access points pose a threat to network security?,4,understand
+What are the best practices for securing a wireless network?,6,apply
+What is the impact of cloud computing on network security?,2,remember
+What are the security implications of using mobile devices in the workplace?,4,understand
+Explain the concept of security automation.,6,apply
+What are the future trends in network security?,2,remember
+What is the role of threat intelligence in network security?,4,understand
+How can organizations effectively monitor their network for security breaches?,6,apply
+What are the implications of GDPR on network security practices?,2,remember
+What is the importance of patch management in maintaining security?,4,understand
+How do security audits contribute to network security?,6,apply
+What are the differences between public and private networks in terms of security?,2,remember
+How can organizations ensure compliance with industry regulations?,4,understand
+What is the significance of data encryption at rest and in transit?,6,apply
+What are the challenges of securing remote work environments?,2,remember
+How can behavioral analytics enhance network security?,4,understand
+What is the role of incident response teams in managing security breaches?,6,apply
+How do honeypots work in network security?,2,remember
+What are the ethical considerations in network security practices?,4,understand
+What is the importance of logging and monitoring in network security?,6,apply
+How can organizations build a culture of security awareness among employees?,2,remember
+How can machine learning be applied to improve network security?,4,understand
+What are the potential risks of using third-party vendors in network security?,6,apply
+What is the role of encryption in securing communications?,2,remember
+How can organizations prepare for and respond to ransomware attacks?,4,understand
+What are the best practices for securing endpoints in a network?,6,apply
+How does network segmentation enhance security?,2,remember
+How can organizations effectively manage insider threats?,4,understand
+What is the significance of vulnerability scanning in network security?,6,apply
+How can threat modeling help in identifying potential security risks?,2,apply
+What are the implications of using open-source software in network security?,4,remember
+What is the role of artificial intelligence in detecting security threats?,6,understand
+How can organizations ensure the security of their APIs?,2,apply
+What are the challenges of securing legacy systems in a network?,4,remember
+What is the importance of continuous security monitoring?,6,understand
+How can organizations respond to a data breach effectively?,2,apply
